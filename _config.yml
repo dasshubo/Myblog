@@ -1,0 +1,9 @@
+# Myblog
+tittle:My blog
+author:Shubojit Das
+email:shubojitdas94@gmail.com
+githhub_username:dasshubo
+description:WELCOME TO MY BLOG
+# Build settings
+markdown:kramdown
+theme:minima
